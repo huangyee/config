@@ -8,3 +8,5 @@ spring:
           uri: https://github.com/huangyee/config.git
 server:
   port: 9090
+username:
+  aaaaa
